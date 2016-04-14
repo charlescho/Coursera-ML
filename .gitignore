@@ -1,0 +1,9 @@
+#data files
+*.gl/
+*.csv
+*.zip
+*_data/
+
+# ipynb checkpoints
+.ipynb_checkpoints/
+.ipynb_checkpoint/
